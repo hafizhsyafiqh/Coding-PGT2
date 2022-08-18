@@ -1,0 +1,40 @@
+1. Ping : Ping adalah akronim dari Packet Internet Gopher yaitu sebuah fitur dalam Windows yang sering digunakan untuk cek kecepatan internet. Contohnya penggunaan perintah ini adalah dengan ping google.com, lalu tekan Enter.
+
+2. Whoami : Perintah whoami digunakan melihat nama dari user yang ada pada komputer kamu dan yang sedang kamu gunakan pada saat ini. Dengan mengetikkan perintah whoami pada CMD, kamu dapat melihat user yang sedang kamu gunakan pada komputer tersebut.
+
+3. Diskpart : Perintah diskpart merupakan perintah CMD yang dapat digunakan untuk mengelola partisi harddisk kamu. Diskpart merupakan salah satu fungsi yang ditawarkan Windows untuk memudahkan pengguna dalam mengelola harddisk.
+
+4. Ipconfig : Perintah ipconfig adalah salah satu perintah yang ada pada sistem operasi Windows yang bisa kamu gunakan untuk melihat konfigurasi IP Address komputer. 
+
+5. Hostname : perintah dasar pada yang ada pada Windows yang bisa kamu gunakan untuk melihat nama host atau jaringan kamu.
+
+6. Getmac : Perintah getmac merupakan perintah CMD yang bisa kamu gunakan untuk melihat alamat mac atau alamat fisik dari komputer yang kamu gunakan.
+
+7. Taskmgr : Perintah taskmgr mempunyai fungsi untuk memanggil Task Manager melalui CMD.  Kamu bisa mencobanya dengan cara mengetikan taskmgr pada CMD kemudian klik Enter.
+
+8. Chdir : Perintah chdir memiliki fungsi untuk mengetahui folder yang sedang aktif. Chdir juga bisa digunakan untuk berpindah ke folder lain melalui CMD. Jika ingin berpindah ke folder utama (root), kamu bisa menggunakan perintah chdir / kemudian Enter
+
+9. Systeminfo : perintah CMD yang memiliki fungsi untuk menampilkan informasi komputer yang kamu gunakan. Informasi terkait komputer kamu, bisa kamu dapatkan dengan menggunakan perintah tersebut.
+
+10. Tree : Perintah tree fungsinya adalah untuk menampilkan struktur dalam suatu folder. Kamu bisa melihat sub folder lengkap dalam waktu yang singkat.
+
+11. Tasklist : perintah CMD yang bisa kamu gunakan untuk menampilkan informasi aplikasi yang sedang berjalan di komputer kamu. 
+
+12. Taskkill : Fungsi dari perintah ini yaitu untuk menutup aplikasi yang sedang berjalan pada komputer.
+
+13. Help : Fungsi perintah help pada CMD adalah untuk menampilkan fungsi-fungsi apa saja yang bisa dipakai.
+
+14. Mkdir : Perintah mkdir merupakan perintah CMD yang bisa kamu gunakan untuk membuat folder. Cara penggunaannya cukup mudah, ketik mkdir (spasi) nama folder, kemudian Enter.
+
+15. Exit :  perintah yang satu ini bisa kamu gunakan untuk keluar dari aplikasi CMD. Caranya dengan ketik Exit kemudian Enter.
+
+16. Assoc : perintah Assoc untuk menampilkan daftar yang lengkap meliputi nama file dan asosiasi program.
+
+17. Cipher : perintah cipher dapat digunakan untuk menghapus direktori dengan cara menuliskan data secara acak di dalamnya, yang bertujuan untuk menghapus file yang sudah dihapus secara permanen dari drive C kamu.
+
+18. Driverquery :  perintah yang dapat kamu gunakan untuk melihat daftar apa saja yang terinstal pada driver PC kamu. Jika kamu membutuhkan informasi lebih lanjut, kamu bisa mengaksesnya pada driverquery -v termasuk tempat driver di instal.
+
+19. Netstat : Saat kamu memasukan perintah netstat, maka akan muncul semua daftar port yang saat itu terbuka dan alamat IP yang terkait. Perintah ini juga akan memberikan informasi terkait status port kamu.
+
+20. Powercfg : Perintah powercfg dapat digunakan untuk mengatur dan melacak energi yang digunakan oleh komputer kamu. Caranya dengan mengetik perintah “powercfg hibernate on” dan “powercfg hibernate off” untuk menyalakan/mematikan pengaturan hibernasi.
+
